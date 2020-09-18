@@ -8,7 +8,7 @@ We also provide the related projects on GitHub:
 * [```Neo4j Browser Guides```](https://github.com/NuriaQueralt/ngly1-neo4j-guides): the asciidoc/html files and scripts for the creation of our Neo4j Browser Guides to assist the user on the exploration of the graph in Neo4j.
 Neo4j.
 * [```Krusty```](https://github.com/NuriaQueralt/Krusty): a library to synchronize the NGLY1 Deficiency graph in the **Knowledge Navigation** (Neo4j) and **Knowledge Contribution** (Wikibase) components.
-* [Queralt-Rosinach *et al.* 2019](): Manuscript describing the project.
+* [Queralt-Rosinach *et al.* 2020](https://doi.org/10.1093/database/baaa015): Manuscript describing the project.
 
 ## Data
 
